@@ -1,19 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef6c5378-8db3-40f1-8443-fce24edd56ca" name="Default Changelist" comment="" />
+    <list default="true" id="ef6c5378-8db3-40f1-8443-fce24edd56ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1b01U5Wrsj1fa977okqE4l8vx4O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -52,6 +67,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1228" height="199" key="GridCell.Tab.0.bottom" timestamp="1587754826104">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="199" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1587754826104" />
+    <state width="1228" height="199" key="GridCell.Tab.0.center" timestamp="1587754826102">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="199" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1587754826102" />
+    <state width="1228" height="199" key="GridCell.Tab.0.left" timestamp="1587754826101">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="199" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1587754826101" />
+    <state width="1228" height="199" key="GridCell.Tab.0.right" timestamp="1587754826103">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="199" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1587754826103" />
     <state x="0" y="0" key="new project wizard" timestamp="1587754614133">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
